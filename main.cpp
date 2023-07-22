@@ -1,5 +1,3 @@
-// Tic Tac Toe
-
 #include <iostream>
 #include <ctime>
 
